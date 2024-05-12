@@ -1,0 +1,77 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : May 1, 2024, 9:44:05 AM
+    Author     : admin
+*/
+.anc1{
+    -fx-background-color:linear-gradient(to top, #d8fa23, #445bde);
+}
+.anc2{
+    -fx-background-color:white;
+    
+}
+.anc4{
+    -fx-background-color: lightgreen;
+    
+}
+.Login{
+    -fx-background-color:linear-gradient(to bottom, #4885da, #224e75);
+    -fx-background-radius: 20px 5px 20px 5px;
+    -fx-text-fill: #fff;
+    -fx-font-size:14px;
+    -fx-cursor:hand;
+}
+.Login:hover{
+    -fx-background-color:linear-gradient(to bottom, #649de4, #3e78a7);
+}
+.Close{
+    -fx-cursor: hand;
+}
+.Close:hover{
+    -fx-background-color: #e03f5a;
+    
+}
+.anc3{
+    -fx-background-color: #32c2c0
+}
+
+.close1{
+    -fx-cursor: hand;
+}
+.close1:hover{
+    -fx-background-color: #e03f5a;
+}   
+.btn1{
+    -fx-background-color: yellow;
+}
+/*
+.sale{
+    -fx-padding: 8 15 15 15;
+    -fx-background-insert:0,0 0 5 0,0 0 6 0,0 0 7 0;
+    -fx-background-radius: 8;
+    -fx-background-color:
+        -fxbackground-color: linear-gradient(from0% 93% to 0% 100%,#a34313 0%,#903b12 100%),
+        #9d4024;
+        #d86e3a;
+        radial-gradient(center 50% 50%, radius 100%,#d96e3a,#c54e2c);
+     -fx-effect:dropshadow(gaussian, rgba(0,0,0,75),4,0,0,1);
+     -fx-font-weight:bold;
+     -fx-font-size:1.1em;                                                                       
+     -fx-text-fill: white;
+}
+.sale:hover{
+    -fxbackground-color:linear-gradient(from 0% 93% to 0% 100%,#a34313 0%,#903b12 100),align-content;
+        #9d4024,
+        #d86e3a,
+        radial-gradient(center 50% 50%,radius 100%,#ea7f4b,#c54e2c);
+}
+.sale:pressed{
+    -fx-padding: 10 15 13 15;
+    -fx-background-inserts:2 0 0 0 ,2 0 3 0,2 0 4 0,2 0 5 0;
+}
+
+
+*/
